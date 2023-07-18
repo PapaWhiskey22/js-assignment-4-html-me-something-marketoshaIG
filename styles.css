@@ -19,10 +19,13 @@ body {
     box-sizing: border-box;
 }
 
-  header {
-    /* background-image: linear-gradient(blue, yellow ); */
-    padding: 0;
-  }
+    .wrapper header {
+        /* background-image: linear-gradient(blue, yellow ); */
+        padding: .5em;
+        justify-content: left;
+        float: left;
+        width: 100%;
+    }
   
   .container {
     min-width: 100%;
